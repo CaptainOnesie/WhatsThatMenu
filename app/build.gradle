@@ -26,5 +26,8 @@ dependencies {
     })
     implementation 'com.android.support:appcompat-v7:26.0.0-beta2'
     testImplementation 'junit:junit:4.12'
+    implementation 'com.google.android.gms:play-services-places:11.0.2'
     implementation 'com.google.android.gms:play-services-maps:11.0.2'
+    implementation 'com.google.android.gms:play-services-ads:11.0.2'
+    implementation 'com.google.firebase:firebase-messaging:11.0.2'
 }
